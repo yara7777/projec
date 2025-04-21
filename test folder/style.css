@@ -25,14 +25,14 @@ justify-content: center;
    height: 500px;
     margin: 10px;
      border-radius: 50px;
-     background: url(images/girl\ photo\ 1.jpg);
+     background: url(images/girl\ phot5\ .jpg);
      background-size: cover;
      background-position: center;
      position: relative;
      transition: width 0.5s;
 }
 .img-box:nth-child(2){
-  background: url(images/girl\ phot5\ .jpg);
+  background: url(images/girl\ photo\ 1.jpg);
   background-size: cover;
   background-position: center;
 }
